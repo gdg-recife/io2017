@@ -26,10 +26,9 @@
         overflow: hidden;
         min-height: 300px;
         max-height: 797px;
+        width: 100%;
         --paper-item-disabled-color: var(--primary-text-color);
-        width: 50%;
         box-sizing: border-box;
-        float: left;
       }
 
       google-map,
@@ -101,6 +100,11 @@
       }
 
       @media (min-width: 601px) {
+        :host {
+          width: 50%;
+        float: left;
+        }
+
         .card {
           min-width: 400px;
         }
@@ -109,6 +113,8 @@
       @media (min-width: 961px) {
         :host {
           padding: 100px 0;
+          width: 50%;
+          float: left;
         }
 
         .additional-space {
