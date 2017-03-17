@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Voluntários I/O Extended",
+    "members": [
+      {
+        "name": "Maria Clara Santana",
+        "photoUrl": "/images/people/maria.jpg",
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/olarclara"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/olarclara"
+            },
+            {
+                "icon": "language",
+                "name": "Site",
+                "link": "https://olarclara.github.io/"
+            }
+        ],
+        "title": "Organização Geral"
+      },
+      {
+        "name": "Thulio Philipe",
+        "photoUrl": "/images/people/tp.jpg",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/thulioph"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/thulioph_"
+            }
+        ],
+        "title": "Co-organização Recife"
+      },
+      {
+        "name": "Pedro di Moura",
+        "photoUrl": "/images/people/pedro.jpg",
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://facebook.com/pedrodimoura"
+            }
+        ],
+        "title": "Organização Caruaru"
+      }
+    ]
+  }
+]

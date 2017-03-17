@@ -1,0 +1,166 @@
+[{
+    "date": "2016-09-09",
+    "dateReadable": "Recife",
+    "tracks": [{
+        "title": "Auditório Bolo de Rolo"
+    }, {
+        "title": "Auditório Bolo Souza Leão"
+    }],
+    "timeslots": [{
+        "startTime": "09:00",
+        "endTime": "09:40",
+        "sessions": [
+            [1]
+        ]
+    }, {
+        "startTime": "09:40",
+        "endTime": "10:00",
+        "sessions": [
+            [2]
+        ]
+    }, {
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "sessions": [
+            [302]
+        ]
+    }, {
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "sessions": [
+            [301]
+            
+        ]
+    }, {
+        "startTime": "11:50",
+        "endTime": "12:45",
+        "sessions": [
+            [133]
+        ]
+    }, {
+        "startTime": "13:00",
+        "endTime": "15:00",
+        "sessions": [
+            [139]
+        ]
+    }, {
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "sessions": [
+            [303],
+            [601]
+        ]
+    }, {
+        "startTime": "15:45",
+        "endTime": "16:30",
+        "sessions": [
+            [304],
+            [542]
+        ]
+    }, {
+        "startTime": "16:30",
+        "endTime": "16:45",
+        "sessions": [
+            [540],
+            [541]
+        ]
+    }, {
+        "startTime": "16:45",
+        "endTime": "17:00",
+        "sessions": [
+            [134]
+        ]
+    }, {
+        "startTime": "17:00",
+        "endTime": "17:50",
+        "sessions": [
+            [641],
+            [140]
+        ]
+    }, {
+        "startTime": "17:45",
+        "endTime": "18:00",
+        "sessions": [
+            [138]
+        ]
+    }]
+}, {
+    "date": "2016-09-10",
+    "dateReadable": "Caruaru",
+    "tracks": [{
+        "title": "Auditório Rapadura"
+    }],
+    "timeslots": [{
+        "startTime": "09:00",
+        "endTime": "09:40",
+        "sessions": [
+            [11]
+        ]
+    }, {
+        "startTime": "09:40",
+        "endTime": "10:00",
+        "sessions": [
+            [22]
+        ]
+    }, {
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "sessions": [
+            [312]
+        ]
+    }, {
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "sessions": [
+            [311]
+        ]
+    }, {
+        "startTime": "11:50",
+        "endTime": "12:45",
+        "sessions": [
+            [633]
+        ]
+    }, {
+        "startTime": "13:00",
+        "endTime": "15:00",
+        "sessions": [
+            [339]
+        ]
+    }, {
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "sessions": [
+            [611]
+        ]
+    }, {
+        "startTime": "15:45",
+        "endTime": "16:30",
+        "sessions": [
+            [314]
+        ]
+    }, {
+        "startTime": "16:30",
+        "endTime": "16:45",
+        "sessions": [
+            [741]
+        ]
+    }, {
+        "startTime": "16:45",
+        "endTime": "17:00",
+        "sessions": [
+            [235]
+        ]
+    }, {
+        "startTime": "17:00",
+        "endTime": "17:45",
+        "sessions": [
+            [141]
+        ]
+    }, {
+        "startTime": "17:45",
+        "endTime": "18:00",
+        "sessions": [
+            [238]
+        ]
+    }]
+}]

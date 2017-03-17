@@ -1,0 +1,192 @@
+{
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Ana Paula Gomes",
+        "title": "Desenvolvedora",
+        "company": "ThoughtWorks",
+        "country": "Belo Horizonte - MG",
+        "photoUrl": "/images/people/ana-paula.jpeg",
+        "shortBio": "Baiana com muito orgulho e desenvolvedora na ThoughtWorks. Adora viajar, boas conversas (preferencialmente acompanhada de uma gelada) e pensar em aplicativos que tornem a vida das pessoas melhor. Nas horas vagas é titular do time de futsal Boas Esporte. ",
+        "tags": [
+            "WTM"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "Woman Techmakers Lead",
+                "link": "https://www.womentechmakers.com/directory"
+            }
+        ],
+        "socials": [
+        {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/AnaPaulaGomess"
+        },
+        {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/anapaulagomes"
+        }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Maria Clara Santana",
+        "country": "Maceió - AL",
+        "photoUrl": "/images/people/maria.jpg",
+        "shortBio": "Embaixadora do Technovation Challenge e Host do Google Computer Science First em Curitiba. Já atuou em diversas startups no Brasil e fora dele. Apaixonada pela web e entusiasta de Machine Learning, área que atuou como junior researcher durante a graduação.",
+        "tags": [
+            "WTM"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "Woman Techmakers Lead",
+                "link": "https://www.womentechmakers.com/directory"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/olarclara"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/olarclara"
+            },
+            {
+                "icon": "language",
+                "name": "Site",
+                "link": "https://olarclara.github.io/"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Thulio Philipe",
+        "title": "Desenvolvedor Front-End",
+        "country": "Recife - PE",
+        "photoUrl": "/images/people/tp.jpg",
+        "shortBio": "Desenvolvedor Front-End na Labcodes, formado em Design Gráfico atualmente tem seu foco em Web Apps, é entusiasta do Google Maps e Offline first. Nas horas vagas vem tentando se tornar um beer sommelier.",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/thulioph"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/thulioph_"
+            }
+        ],
+        "tags": [
+            "Vue",
+            "Maps"
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Mateus Ortiz",
+        "country": "Curitiba - PR",
+        "photoUrl": "/images/people/mateus_ortiz.jpg",
+        "shortBio": "Front-end Developer e criador de alguns projetos OpenSource bem interessantes, como o Web Components Weekly e o guia Web Components the right way, e tem apenas 18 anos.",
+        "bio": "Front-end Developer e criador de alguns projetos OpenSource bem interessantes, como o Web Components Weekly e o guia Web Components the right way, e tem apenas 18 anos.",
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://facebook.com/mteus.ortiz"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Pedro di Moura",
+        "title": "Desenvolvedor",
+        "country": "Caruaru - PE",
+        "photoUrl": "/images/people/pedro.jpg",
+        "shortBio": "Mestrando em Engenharia de Software pela Faculdade C.E.S.A.R. e graduado em Análise e Desenvolvimento de Sistemas FAFICA.",
+        "bio": "Mestrando em Engenharia de Software pela Faculdade C.E.S.A.R. e graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Filosofia, Ciências e Letras de Caruaru(FAFICA). Analista de Sistemas na FAFICA por 2 anos e, atualmente, Desenvolvedor de Sistemas na Pitang.",
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://facebook.com/pedrodimoura"
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Lhaís Rodrigues",
+        "title": "Desenvolvedora",
+        "country": "Recife - PE",
+        "photoUrl": "/images/people/lhais.jpg",
+        "shortBio": "Desenvolvedora na Ávila Soluções, Desenvolvedora no Mete a Colher, Microsoft Student Partner.",
+        "bio": "Desenvolvedora na Ávila Soluções, Desenvolvedora no Mete a Colher, Microsoft Student Partner Leader Nordeste, Estudante de Engenharia da Computação pelo CIn-UFPE e Criadora do Women Makers.",
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://fb.com/lhaisrs"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/lhaisrs_"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/lhaisrs"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/lhaisrodrigues/"
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "featured": true,
+        "name": "Clóvis Neto",
+        "country": "Recife - PE",
+        "photoUrl": "/images/people/clovis.jpg",
+        "shortBio": "Desenvolvedor na Liferay.",
+        "bio": "Desenvolvedor na Liferay.",
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://facebook.com/ClovisDaSilvaNeto"
+            }
+        ]
+    },
+    "0": {
+        "id": 0,
+        "featured": true,
+        "name": "Você",
+        "title": "Call 4 Papers",
+        "country": "Envie sua Palestra!",
+        "photoUrl": "/images/people/who.png",
+        "shortBio": "Esse ano temos slots de palestras especiais pra você! Clique no menu superior na opção \"Call4Papers\" e saiba mais.",
+        "bio": "",
+        "socials": [
+            {
+                "icon": "language",
+                "name": "Enviar",
+                "link": "/cfp/"
+            }
+        ]
+    }
+}

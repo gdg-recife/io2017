@@ -1,0 +1,266 @@
+{
+  "firebase": {
+    "name": "hoverboard-master",
+    "domain": "hoverboard-master.firebaseapp.com",
+    "database": "https://hoverboard-master.firebaseio.com",
+    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "userSessionsPath": "/userSessions"
+  },
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#5675F4",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "Google I/O 2016",
+          "youtubeId": "QPhXL1Im7ds",
+          "text": "Lembre como foi em 2016"
+        },
+        "hideLogo": false,
+        "minHeight": "360px"
+      }
+    },
+    "palestrantes": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "agenda": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "time": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "faq": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "agenda",
+      "permalink": "/agenda/"
+    },
+    {
+      "route": "palestrantes",
+      "permalink": "/palestrantes/"
+    },
+    {
+      "route": "time",
+      "permalink": "/time/"
+    },
+    {
+      "route": "cfp",
+      "permalink": "/cfp/"
+    },
+    {
+      "route": "faq",
+      "permalink": "/faq/"
+    }
+  ],
+  "url": "https://hoverboard.firebaseapp.com/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "https://goo.gl/forms/Gb6MLlk9txofvVxh2",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [
+    {
+      "name": "Português",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "http://pt-br.confcodeofconduct.com"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "GDG Recife",
+          "url": "http://meetup.com/GDG-Recife/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "https://goo.gl/forms/Gb6MLlk9txofvVxh2",
+          "newTab": true
+        },
+        {
+          "text": "media-kit",
+          "url": "https://goo.gl/ZwCyFG",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "contato@gdgrecife.com",
+        "url": "mailto:contato@gdgrecife.com"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "https://loja.tampa.works/categoria-produto/eventos/parceiros/iope2017/",
+    "url-car": "https://loja.tampa.works/categoria-produto/eventos/parceiros/iope2017/",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 19,
+        "currency": "R$",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 29,
+        "currency": "R$",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 39,
+        "currency": "R$",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "soldOut": false
+      },
+      {
+        "name": "doador-ticket",
+        "price": 49,
+        "currency": "R$",
+        "starts": "doador-ticket-starts",
+        "ends": "doador-ticket-ends",
+        "info": "doador-ticket-info",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 350,
+      "caption": "attendees"
+    },
+    {
+      "counter": 2,
+      "caption": "days"
+    },
+    {
+      "counter": "+15",
+      "caption": "sessions"
+    },
+    {
+      "counter": 3,
+      "caption": "tracks"
+    }
+  ],
+  "hashtag": "io17 #xpe",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDG Recife",
+      "url": "https://twitter.com/gdgrecife"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDG Recife",
+      "url": "https://www.facebook.com/gdgrecife"
+    }
+  ],
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "",
+    "pointer": {
+      "latitude": -8.0606749,
+      "longitude": -34.8719156,
+      "zoom": 16
+    },
+    "mapCenter": {
+      "latitude": -8.0606749,
+      "longitude": -34.8679156
+    },
+    "images": [
+      "/images/backgrounds/rec_1.jpg",
+      "/images/backgrounds/rec_2.jpg",
+      "/images/backgrounds/rec_3.jpg"
+    ]
+  },
+  "locationCar": {
+    "apiKey": "",
+    "link": "",
+    "pointer": {
+      "latitude": -8.238869,
+      "longitude": -35.980656,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": -8.238869,
+      "longitude": -35.9729156
+    },
+    "images": [
+      "/images/backgrounds/car_1.jpg",
+      "/images/backgrounds/car_2.jpg",
+      "/images/backgrounds/car_3.jpg"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=862r3XS2YB0&list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "DfMnJAzOFng"
+  }
+}

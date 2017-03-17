@@ -1,0 +1,225 @@
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/paper-material/paper-material.html">
+
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../behaviors/localize-behavior.html">
+<link rel="import" href="../behaviors/page-behavior.html">
+<link rel="import" href="../behaviors/cascaded-behavior.html">
+
+
+</head><body><dom-module id="cfp-page">
+
+  <template>
+
+    <style include="shared-styles">
+      :host {
+        --grid-gutter: 8px;
+        --colums-number: 3;
+        display: block;
+      }
+
+      .details {
+        @apply(--layout-vertical);
+        @apply(--layout-center-justified);
+      }
+
+      .details-item {
+        @apply(--layout-horizontal);
+        padding-bottom: 32px;
+      }
+
+      .details-icon {
+        --iron-icon-height: 56px;
+        --iron-icon-width: 56px;
+        --iron-icon-fill-color: var(--default-primary-color);
+        margin-right: 24px;
+      }
+
+      .details-info {
+        @apply(--layout-flex);
+      }
+
+      .details-title {
+        margin-bottom: 24px;
+        font-size: 24px;
+        font-weight: 400;
+      }
+
+      .details-text .markdown-html {
+        font-size: 16px;
+      }
+
+      .cfp-container {
+        @apply(--layout-vertical);
+        @apply(--layout-wrap);
+      }
+
+      .cfp-block {
+        margin-bottom: 30px;
+      }
+
+      .cfp-name {
+        text-align: center;
+      }
+
+      .member {
+        @apply(--layout-horizontal);
+        width: 100%;
+        margin: var(--grid-gutter) 0;
+      }
+
+      .card {
+        @apply(--layout-flex);
+        @apply(--layout-vertical);
+        @apply(--shadow-elevation-2dp);
+        padding: 32px 16px;
+        background: #fff;
+      }
+
+      .card:hover {
+        @apply(--shadow-elevation-3dp);
+        background: #fff;
+      }
+
+      .header {
+        @apply(--layout-vertical);
+        @apply(--layout-center-center);
+      }
+
+      .photo {
+        width: 120px;
+        height: 120px;
+        position: relative;
+        border-radius: 50%;
+        overflow: hidden;
+        background: var(--default-primary-color) 50% 50%;
+        background-size: cover;
+      }
+
+      .card-content {
+        @apply(--layout-vertical);
+        @apply(--layout-flex-auto);
+        color: var(--primary-text-color);
+        font-size: 18px;
+        text-align: center;
+      }
+
+      .name {
+        font-size: 20px;
+      }
+
+      .title {
+        font-size: 16px;
+        color: var(--secondary-text-color);
+      }
+
+      .card-actions {
+        text-align: center;
+      }
+
+      .social-icon {
+        color: var(--secondary-text-color);
+      }
+
+      @media (min-width: 601px) {
+        .details-icon {
+          --iron-icon-height: 72px;
+          --iron-icon-width: 72px;
+          margin-right: 32px;
+        }
+
+        .cfp-container {
+          @apply(--layout-horizontal);
+          @apply(--layout-center-justified);
+        }
+
+        .member {
+          width: calc(100% / var(--colums-number) - (var(--colums-number) + 1) * var(--grid-gutter));
+          margin: var(--grid-gutter) var(--grid-gutter) calc(var(--colums-number) * var(--grid-gutter));
+        }
+
+        .card {
+          background: none;
+          box-shadow: none;
+          transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1), background 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .card:hover {
+          @apply(--shadow-elevation-3dp);
+          background: #fff;
+        }
+
+        .social-link {
+          display: inline-block;
+          opacity: 0;
+          transform: translate3d(0, 50%, 0);
+          will-change: transform, opacity;
+          transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .card:hover .social-link {
+          opacity: 1;
+          transform: translate3d(0, 0, 0);
+        }
+
+        .social-link:nth-child(2) {
+          transition-delay: .1s;
+        }
+
+        .social-link:nth-child(3) {
+          transition-delay: .15s;
+        }
+
+        .social-link:nth-child(4) {
+          transition-delay: .2s;
+        }
+
+        .social-link:nth-child(5) {
+          transition-delay: .25s;
+        }
+      }
+
+      @media (min-width: 1600px) {
+        .container {
+          max-width: 960px;
+        }
+      }
+    </style>
+
+    <div class="container">
+      <h1>Queremos você palestrando!</h1>
+      <p>Nesse I/O Extended queremos dar mais voz a nossa comunidade, e usando a sua. Submeta uma palestra para nosso evento!<br><strong>Veja como vai funcionar</strong>, o processo terá 3 fases:</p>
+      <h2>1 · Submissão da Palestra</h2>
+      <ul>
+        <li><strong>Pense numa palestra legal:</strong>Pode ser qualquer tema, mas que seja ligado a temática do evento. Pense no que você sabe que o público que vai no I/O Extended gostaria de ouvir!</li>
+        <li><strong>Escolha o tempo e a cidade:</strong> Em Recife você pode escolher apresentar uma Super Talk de (até) 45 minutos, ou uma Light de (até) 15 minutos. Em Caruaru, apenas slots com 15 minutos estarão disponíveis.</li>
+        <li><strong>Envie pra gente:</strong> Preencha o formulário abaixo com o Título, Temas e Descrição da sua palestra. Também precisamos do seu e-mail, e só. Não queremos saber seu nome, sua música preferida, como você dança ou qual sua cor predileta. Queremos o seu conteúdo!</li>
+      </ul>
+      <p><strong>A deadline de envio é até 30 de Abril.</strong> Após dia 30, iremos pra segunda fase, descrita após o form.</p>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQyjR42SXuwMPQv6wvEyPs5w7plhRln9RmTkJV4rKniPVY9Q/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+      <br><br>
+      <h2>2 · Votação</h2>
+      <p>Votação pública, mas anônima: Iremos selecionar as melhores palestras que achamos que tem haver com a temática do I/O Extended. Depois disso, iremos fazer uma votação pública para os participantes escolherem qual <strong>Tema/Palestra</strong> eles preferem. Sem saber quem foi que mandou, só pela descrição.</p>
+      <p><strong>Atenção:</strong> Você não só pode como DEVE compartilhar a votação, porém, você <strong>não pode dizer que está participando</strong>. Apenas pedir pras pessoas escolherem aquilo que elas preferem. Queremos uma batalha de ideias, não de pessoas. Caso seja descoberto que um paticipante pediu votos diretamente, <strong>ele poderá vir a ser desclassificado</strong>.</p>
+      <p>A votação acontece até dia <strong>7 de Maio</strong>.</p>
+      <h2>3 · Escolha final</h2>
+      <p>As mais votadas serão informadas até o dia <strong>8 de Maio</strong> da sua vitória. Só aí, pediremos o resto dos dados para adicionarmos você a nossa seção de palestrantes aqui no site e atualizarmos a agenda do evento com a palestra vencedora!</p>
+      <br>
+      <h3>Dúvidas</h3>
+      <p><strong>Se eu for palestrar no evento, eu preciso pagar o ingresso?</strong><br>Não. Mas não podemos garantir que vamos ter ingressos até o dia 8 de Maio. Então se você pretende ir, mesmo sem palestrar, compre. Caso você seja escolhido, você pode passar seu ingresso para alguém, receber seu dinheiro de volta, ou deixar ele na Caixinha do GDG.</p>
+    </div>
+
+    <footer-block app="{{app}}" cascaded=""></footer-block>
+
+  </template>
+
+  <script>!function(){"use strict";Polymer({is:"cfp-page",behaviors:[HOVERBOARD.PageBehavior,HOVERBOARD.CascadedBehavior,HOVERBOARD.LocalizeBehavior]})}();</script>
+
+</dom-module>
+</body></html>

@@ -1,0 +1,295 @@
+{ 
+  "1": {
+    "id": 1,
+    "title": "Check-in",
+    "customTrack": "Entrada do Auditório Bolo de Souza Leão",
+    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+    "image": "/images/backgrounds/registration.jpg"
+  },
+  "11": {
+    "id": 11,
+    "title": "Check-in",
+    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+    "image": "/images/backgrounds/registration.jpg"
+  },
+  "2": {
+    "id": 2,
+    "title": "Boas-vindas do I/O Extended Recife",
+    "customTrack": "Em ambos Auditórios",
+    "description": "Início oficial do I/O Extended. Boas-vindas do GDG Recife, agradecimento aos patrocinadores e um overview do que teremos durante todo o dia.",
+    "image": "/images/backgrounds/opening.jpg",
+    "speakers": [
+      3,
+      4
+    ]
+  },
+  "22": {
+    "id": 22,
+    "title": "Boas-vindas do I/O Extended Caruaru",
+    "description": "Início oficial do I/O Extended. Boas-vindas do GDG Recife, agradecimento aos patrocinadores e um overview do que teremos durante todo o dia.",
+    "image": "/images/backgrounds/opening.jpg"
+  },
+  "302": {
+    "id": 302,
+    "title": "Code Smells & Refactoring - Who you gonna call?",
+    "description": "Você abre o seu código e está pior que o cenário do filme Ghostbusters de tantos code smells. Code smells? O que é isso? Code smells são sintomas de que existem problemas mais profundos de design no código. Nessa palestra vamos falar sobre eles e algumas técnicas de refatoração para resolvê-los.",
+    "tags": [
+      "Code Quality",
+      "WTM"
+    ],
+    "speakers": [
+      2
+    ],
+    "language": "Português"
+  },
+  "312": {
+    "id": 312,
+    "title": "Code Smells & Refactoring - Who you gonna call?",
+    "description": "Você abre o seu código e está pior que o cenário do filme Ghostbusters de tantos code smells. Code smells? O que é isso? Code smells são sintomas de que existem problemas mais profundos de design no código. Nessa palestra vamos falar sobre eles e algumas técnicas de refatoração para resolvê-los.",
+    "tags": [
+      "Code Quality",
+      "WTM"
+    ],
+    "speakers": [
+      2
+    ],
+    "language": "Português"
+  },
+  "301": {
+    "id": 301,
+    "title": "PWA e Web Components: O que vem por aí?",
+    "description": "Web Components permite a criação de componentes perfeitos para toda e qualquer plataforma, e com isso casa-se muito bem com PWA que propõe melhores aplicações entre  web e nativo. Nesta palestra vou tentar demostrar o melhor dos dois mundos envolvendo PWA & Web Components.",
+    "language": "Português",
+    "tags": [
+      "Polymer",
+      "Progressive Web Apps"
+    ],
+    "speakers": [
+      6
+    ]
+  },
+  "311": {
+    "id": 311,
+    "title": "PWA e Web Components: O que vem por aí?",
+    "description": "Web Components permite a criação de componentes perfeitos para toda e qualquer plataforma, e com isso casa-se muito bem com PWA que propõe melhores aplicações entre  web e nativo. Nesta palestra vou tentar demostrar o melhor dos dois mundos envolvendo PWA & Web Components.",
+    "language": "Português",
+    "tags": [
+      "Polymer",
+      "Progressive Web Apps"
+    ],
+    "speakers": [
+      6
+    ]
+  },
+  "303": {
+    "id": 303,
+    "title": "Framework web, qual a melhor escolha?",
+    "description": "Você precisa manter um projeto com um Framework mais atualizado, qual a melhor escolha? Nesta talk irei mostrar alguns conceitos, prós e contras sobre os principais frameworks web da atualidade.",
+    "language": "Português",
+    "tags": [
+      "Angular",
+      "Progressive Web Apps",
+      "VueJS",
+      "React"
+    ],
+    "speakers": [
+      4
+    ]
+  },
+  "313": {
+    "id": 313,
+    "title": "Framework web, qual a melhor escolha?",
+    "description": "Você precisa manter um projeto com um Framework mais atualizado, qual a melhor escolha? Nesta talk irei mostrar alguns conceitos, prós e contras sobre os principais frameworks web da atualidade.",
+    "language": "Português",
+    "tags": [
+      "Angular",
+      "Progressive Web Apps",
+      "VueJS",
+      "React"
+    ],
+    "speakers": [
+      4
+    ]
+  },
+  "304": {
+    "id": 304,
+    "title": "Como descobrir e predizer padrões em hábitos musicais utilizando Machine Learning.",
+    "description": "",
+    "language": "Português",
+    "tags": [
+      "Machine Learning",
+      "TensorFlow",
+      "Spotify", 
+      "Apple Music",
+      "Lastfm",
+      "Python"
+   ],
+    "speakers": [
+      3
+    ]
+  },
+  "314": {
+    "id": 314,
+    "title": "Como descobrir e predizer padrões em hábitos musicais utilizando Machine Learning.",
+    "description": "",
+    "language": "Português",
+    "tags": [
+      "Machine Learning",
+      "TensorFlow",
+      "Spotify", 
+      "Apple Music",
+      "Lastfm",
+      "Python"
+    ],
+    "speakers": [
+      3
+    ]
+  },
+  "601": {
+    "id": 601,
+    "title": "Reactive Programming with RxJava/Android 2.0",
+    "description": "Com a grande necessidade das aplicações atuais serem responsivas, resilientes, orientada a eventos e escaláveis, surgiu a proposta Reactive Extensions. Times de desenvolvimento como Microsoft, Netflix, Ribot, entre outros, apostaram neste conceito de Programação Reativa que provê todos os recursos necessários para se desenvolver softwares que atendam a estas necessidades. Neste talk, irei te apresentar um pouco sobre RxJava/Android, uma biblioteca que te traz a possibilidade de desenvolver aplicações reativas, baseadas em eventos utilizando sequências observáveis. Além disto, iremos conhecer um pouco da versão 2.0 do framework, recentemente lançada, e te mostrar o que há de novidade.",
+    "language": "Português",
+    "tags": [
+      "Android",
+      "RxJava"
+    ],
+    "speakers": [
+      7
+    ]
+  },
+  "611": {
+    "id": 611,
+    "title": "Reactive Programming with RxJava/Android 2.0",
+    "description": "Com a grande necessidade das aplicações atuais serem responsivas, resilientes, orientada a eventos e escaláveis, surgiu a proposta Reactive Extensions. Times de desenvolvimento como Microsoft, Netflix, Ribot, entre outros, apostaram neste conceito de Programação Reativa que provê todos os recursos necessários para se desenvolver softwares que atendam a estas necessidades. Neste talk, irei te apresentar um pouco sobre RxJava/Android, uma biblioteca que te traz a possibilidade de desenvolver aplicações reativas, baseadas em eventos utilizando sequências observáveis. Além disto, iremos conhecer um pouco da versão 2.0 do framework, recentemente lançada, e te mostrar o que há de novidade.",
+    "language": "Português",
+    "tags": [
+      "Android",
+      "RxJava"
+    ],
+    "speakers": [
+      7
+    ]
+  },
+  "140": {
+    "id": 140,
+    "title": "Em Breve",
+    "description": "Em Breve",
+    "language": "Português",
+    "speakers": [
+      8
+    ]
+  },
+  "141": {
+    "id": 141,
+    "title": "Em Breve",
+    "description": "Em Breve",
+    "language": "Português",
+    "speakers": [
+      8
+    ]
+  },
+  "641": {
+    "id": 641,
+    "title": "Jogos com CSS",
+    "description": "Quem disse que CSS é apenas algo bonitinho e \"estático\" que só serve para estilizar sites? Com uma pitada de desafio e um toque especial de diversão iremos embarcar em um mundo pouco explorado, o mundo dos jogos com CSS.",
+    "language": "Português",
+    "speakers": [
+      9
+    ],
+    "tags": [
+      "CSS"
+    ]
+  },
+  "540": {
+    "id": 540,
+    "title": "Lightning Talk",
+    "description": "Envie sua Lightning Talk de até 15 minutos!",
+    "language": "Envie sua Lightning Talk de até 15 minutos!",
+    "speakers": [
+      0
+    ]
+  },
+  "541": {
+    "id": 541,
+    "title": "Lightning Talk",
+    "description": "Envie sua Lightning Talk de até 15 minutos!",
+    "language": "Envie sua Lightning Talk de até 15 minutos!",
+    "speakers": [
+      0
+    ]
+  },
+  "542": {
+    "id": 541,
+    "title": "Super Talk",
+    "description": "Envie sua Lightning Talk de até 15 minutos!",
+    "language": "Envie sua Talk de até 45 minutos!",
+    "speakers": [
+      0
+    ]
+  },
+  "741": {
+    "id": 741,
+    "title": "Lightning Talk",
+    "description": "Envie sua Lightning Talk de até 15 minutos!",
+    "language": "Envie sua Lightning Talk de até 15 minutos!",
+    "speakers": [
+      0
+    ]
+  },
+  "139": {
+    "id": 139,
+    "title": "🔴 Google I/O Keynote",
+    "description": "",
+    "customTrack": "Em ambos Auditórios",
+    "language": "English",
+    "image": "/images/backgrounds/keynote.jpg"
+  },
+  "339": {
+    "id": 339,
+    "title": "🔴 Google I/O Keynote",
+    "description": "",
+    "language": "English",
+    "image": "/images/backgrounds/keynote.jpg"
+  },
+  "138": {
+    "id": 138,
+    "title": "Encerramento I/O Extended Recife",
+    "customTrack": "Em ambos Auditórios",
+    "description": "",
+    "image": "/images/backgrounds/closing.jpg"
+  },
+  "238": {
+    "id": 238,
+    "title": "Encerramento I/O Extended Caruaru",
+    "description": "",
+    "image": "/images/backgrounds/closing.jpg"
+  },
+  "134": {
+    "id": 134,
+    "title": "Intervalo",
+    "description": "",
+    "customTrack": "Auditório Bolo de Souza Leão",
+    "image": "/images/backgrounds/coffee-break.jpg"
+  },
+  "235": {
+    "id": 235,
+    "title": "Intervalo",
+    "description": "",
+    "image": "/images/backgrounds/coffee-break.jpg"
+  },
+  "133": {
+    "id": 133,
+    "title": "Almoço",
+    "description": "Foooooooood!",
+    "customTrack": "Diversos restaurantes pelo Recife Antigo",
+    "image": "/images/backgrounds/lunch.jpg"
+  },
+  "633": {
+    "id": 633,
+    "title": "Almoço",
+    "description": "Foooooooood!",
+    "customTrack": "Praça de Alimentação do Pólo / Makro",
+    "image": "/images/backgrounds/lunch.jpg"
+  }
+}

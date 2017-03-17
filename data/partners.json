@@ -1,0 +1,61 @@
+[
+  {
+    "title": "template-creator",
+    "logos": [
+      {
+        "name": "GDG Recife",
+        "url": "https://meetup.com/GDG-Recife/",
+        "logoUrl": "../images/logos/gdg.png",
+        "width": 150
+      },
+      {
+        "name": "Mangue Codes",
+        "url": "#",
+        "logoUrl": "../images/logos/manguecodes.png",
+        "width": 200
+      }
+    ]
+  },
+  {
+    "title": "patrocinadores",
+    "logos": [
+      {
+        "name": "Sua marca aqui",
+        "url": "https://goo.gl/forms/Gb6MLlk9txofvVxh2",
+        "logoUrl": "../images/logos/ad.png",
+        "width": 200
+      }
+    ]
+  },
+  {
+    "title": "midia",
+    "logos": [
+      {
+        "name": "iMasters",
+        "url": "https://imasters.com.br",
+        "logoUrl": "../images/logos/imasters.png",
+        "width": 150
+      }
+    ]
+  },
+  {
+    "title": "general-partner",
+    "logos": [
+      {
+        "name": "Google Developers",
+        "url": "https://developer.google.com",
+        "logoUrl": "http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Google-developers-logo.svg/revision/latest?cb=20160713162007"
+      },
+      {
+        "name": "Armazém da Criatividade",
+        "url": "http://www.armazemdacriatividade.org/",
+        "logoUrl": "../images/logos/armazem.png"
+      },
+      {
+        "name": "Tampa Works",
+        "url": "https://tampa.works",
+        "logoUrl": "https://loja.tampa.works/files/2017/02/tampa-loja-min.png"
+      }
+    ]
+  }
+]
