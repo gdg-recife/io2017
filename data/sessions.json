@@ -147,12 +147,12 @@
   },
   "601": {
     "id": 601,
-    "title": "Reactive Programming with RxJava/Android 2.0",
-    "description": "Com a grande necessidade das aplicações atuais serem responsivas, resilientes, orientada a eventos e escaláveis, surgiu a proposta Reactive Extensions. Times de desenvolvimento como Microsoft, Netflix, Ribot, entre outros, apostaram neste conceito de Programação Reativa que provê todos os recursos necessários para se desenvolver softwares que atendam a estas necessidades. Neste talk, irei te apresentar um pouco sobre RxJava/Android, uma biblioteca que te traz a possibilidade de desenvolver aplicações reativas, baseadas em eventos utilizando sequências observáveis. Além disto, iremos conhecer um pouco da versão 2.0 do framework, recentemente lançada, e te mostrar o que há de novidade.",
+    "title": "Material Design Patterns for Android",
+    "description": "Como um desenvolvedor, sua responsabilidade é tornar uma UX tão limpa quanto uma arquitetura. Para isto, iremos conhecer alguns padrões do guideline Material Design que irão te auxiliar no design de UX que farão com que típicos usuários Android não pensem muito antes de realizar ações dentro da tua app.",
     "language": "Português",
     "tags": [
       "Android",
-      "RxJava"
+      "Material Design"
     ],
     "speakers": [
       7
@@ -160,12 +160,12 @@
   },
   "611": {
     "id": 611,
-    "title": "Reactive Programming with RxJava/Android 2.0",
-    "description": "Com a grande necessidade das aplicações atuais serem responsivas, resilientes, orientada a eventos e escaláveis, surgiu a proposta Reactive Extensions. Times de desenvolvimento como Microsoft, Netflix, Ribot, entre outros, apostaram neste conceito de Programação Reativa que provê todos os recursos necessários para se desenvolver softwares que atendam a estas necessidades. Neste talk, irei te apresentar um pouco sobre RxJava/Android, uma biblioteca que te traz a possibilidade de desenvolver aplicações reativas, baseadas em eventos utilizando sequências observáveis. Além disto, iremos conhecer um pouco da versão 2.0 do framework, recentemente lançada, e te mostrar o que há de novidade.",
+    "title": "Material Design Patterns for Android",
+    "description": "Como um desenvolvedor, sua responsabilidade é tornar uma UX tão limpa quanto uma arquitetura. Para isto, iremos conhecer alguns padrões do guideline Material Design que irão te auxiliar no design de UX que farão com que típicos usuários Android não pensem muito antes de realizar ações dentro da tua app.",
     "language": "Português",
     "tags": [
       "Android",
-      "RxJava"
+      "Material Design"
     ],
     "speakers": [
       7
