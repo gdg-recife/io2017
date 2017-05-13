@@ -66,31 +66,6 @@
             }
         ]
     },
-    "4": {
-        "id": 4,
-        "featured": true,
-        "name": "Thulio Philipe",
-        "title": "Desenvolvedor Front-End",
-        "country": "Recife - PE",
-        "photoUrl": "/images/people/tp.jpg",
-        "shortBio": "Desenvolvedor Front-End na Labcodes, formado em Design Gráfico atualmente tem seu foco em Web Apps, é entusiasta do Google Maps e Offline first. Nas horas vagas vem tentando se tornar um beer sommelier.",
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "Linkedin",
-                "link": "https://www.linkedin.com/in/thulioph"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/thulioph_"
-            }
-        ],
-        "tags": [
-            "Vue",
-            "Maps"
-        ]
-    },
     "6": {
         "id": 6,
         "featured": true,
@@ -124,38 +99,6 @@
             }
         ]
     },
-    "8": {
-        "id": 8,
-        "featured": true,
-        "name": "Lhaís Rodrigues",
-        "title": "Desenvolvedora",
-        "country": "Recife - PE",
-        "photoUrl": "/images/people/lhais.jpg",
-        "shortBio": "Recifense (com orgulho) e torcedora do Leão do Norte, Desenvolvedora na Ávila Soluções e Mete a Colher, Microsoft Student Partner Leader Nordeste.",
-        "bio": "Recifense (com orgulho) e torcedora do Leão do Norte, Desenvolvedora na Ávila Soluções e Mete a Colher, Microsoft Student Partner Leader Nordeste. Entusiasta de IoT e Sistemas Embarcados. Adoro fazer networking e aprender coisas novas.",
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://fb.com/lhaisrs"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/lhaisrs_"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/lhaisrs"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/lhaisrodrigues/"
-            }
-        ]
-    },
     "9": {
         "id": 9,
         "featured": true,
@@ -172,20 +115,45 @@
             }
         ]
     },
-    "0": {
-        "id": 0,
+    "10": {
+        "id": 10,
         "featured": true,
-        "name": "Você",
-        "title": "Call 4 Papers",
-        "country": "Envie sua Palestra!",
-        "photoUrl": "/images/people/who.png",
-        "shortBio": "Esse ano temos slots de palestras especiais pra você! Clique no menu superior na opção \"Call4Papers\" e saiba mais.",
-        "bio": "",
+        "name": "Andrêza Leite",
+        "country": "Recife - PE",
+        "photoUrl": "/images/people/andreza.jpg",
+        "shortBio": "Professora do Departamento de Estatística e Informática da Universidade Federal Rural de Pernambuco (DEINFO/UFRPE) e da Especialização em Ciência de Dados e Analytics da Escola Politécnica da Universidade de Pernambuco (Poli/UPE).",
+        "bio": "Professora do Departamento de Estatística e Informática da Universidade Federal Rural de Pernambuco (DEINFO/UFRPE) e da Especialização em Ciência de Dados e Analytics da Escola Politécnica da Universidade de Pernambuco (Poli/UPE). Co-Fundadora e Diretora do Women Who Code Recife, Co-Fundadora do Pyladies Recife e Embaixadora do Technovation Challenge Brasil. Andrêza Leite tem Mestrado em Ciência da Computação pelo Centro de Informática da Universidade Federal de Pernambuco (CIn/UFPE) e está cursando o Doutorado também no CIn/UFPE. Graduada em Sistemas de Informação pela Universidade Federal do Pará (UFPA). Tem experiência na área de Ciência da Computação, com interesse principalmente nos temas: Banco de Dados; Sistemas Distribuídos; Gerenciamento de dados em Nuvem e BigData. Palestrou em eventos de Tecnologia e Empreendedorismo como Campus Party, FISL, CSBC, Consoline, entre outros.",
         "socials": [
             {
-                "icon": "language",
-                "name": "Enviar",
-                "link": "/cfp/"
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://facebook.com/andreza.leite1"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/andreza_paju"
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": true,
+        "name": "Wellington Mitrut",
+        "country": "Cacavel - PR",
+        "photoUrl": "/images/people/mitrut.jpg",
+        "shortBio": "Mobile UI/UX Developer, Organizador do GDG Cascavel, podcaster no Dev & Community Cast com Neto Marin (Google). Trabalha com tecnologia a 5 anos, mantém o Blog do Mitrut e escreve esporadicamente para iMasters e UolHost.",
+        "bio": "Mobile UI/UX Developer, Organizador do GDG Cascavel, podcaster no Dev & Community Cast com Neto Marin (Google).",
+        "socials": [
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/Wmitrut"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/Wmitrut"
             }
         ]
     }

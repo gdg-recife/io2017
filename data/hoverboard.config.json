@@ -69,10 +69,6 @@
       "permalink": "/time/"
     },
     {
-      "route": "cfp",
-      "permalink": "/cfp/"
-    },
-    {
       "route": "faq",
       "permalink": "/faq/"
     }
@@ -158,7 +154,7 @@
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "lazy-ticket",
@@ -183,7 +179,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 350,
+      "counter": 250,
       "caption": "attendees"
     },
     {

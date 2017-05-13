@@ -20,7 +20,7 @@
     "image": "/images/backgrounds/opening.jpg",
     "speakers": [
       3,
-      4
+      7
     ]
   },
   "22": {
@@ -81,34 +81,28 @@
       6
     ]
   },
-  "303": {
-    "id": 303,
-    "title": "Framework web, qual a melhor escolha?",
-    "description": "Você precisa manter um projeto com um Framework mais atualizado, qual a melhor escolha? Nesta talk irei mostrar alguns conceitos, prós e contras sobre os principais frameworks web da atualidade.",
+  "1010": {
+    "id": 1010,
+    "title": "Aumentando o sucesso da aplicação com Persistência Poliglota",
+    "description": "Usar mais de uma abordagem para persistência de dados em uma mesma aplicação pode aumentar o sucesso da solução. A persistência poliglota possibilita aos bancos de dados tornarem-se a principal solução de BigData ao invés de serem o gargalo do sistema.",
     "language": "Português",
     "tags": [
-      "Angular",
-      "Progressive Web Apps",
-      "VueJS",
-      "React"
+      "Big Data"
     ],
     "speakers": [
-      4
+      10
     ]
   },
-  "313": {
-    "id": 313,
-    "title": "Framework web, qual a melhor escolha?",
-    "description": "Você precisa manter um projeto com um Framework mais atualizado, qual a melhor escolha? Nesta talk irei mostrar alguns conceitos, prós e contras sobre os principais frameworks web da atualidade.",
+  "1111": {
+    "id": 1111,
+    "title": "Customização de Mapas no Android",
+    "description": "Utilizando Google Maps API + Google Play Services, aprenderemos como é feito a estilização de mapas para Android usando Google Play Services.",
     "language": "Português",
     "tags": [
-      "Angular",
-      "Progressive Web Apps",
-      "VueJS",
-      "React"
+      "Android"
     ],
     "speakers": [
-      4
+      11
     ]
   },
   "304": {
@@ -247,7 +241,15 @@
   },
   "139": {
     "id": 139,
-    "title": "🔴 Google I/O Keynote",
+    "title": "🔴 Google Keynote",
+    "description": "",
+    "customTrack": "Em ambos Auditórios",
+    "language": "English",
+    "image": "/images/backgrounds/keynote.jpg"
+  },
+  "5539": {
+    "id": 5539,
+    "title": "🔴 Developer Keynote",
     "description": "",
     "customTrack": "Em ambos Auditórios",
     "language": "English",
@@ -290,7 +292,7 @@
     "id": 133,
     "title": "Almoço",
     "description": "Foooooooood!",
-    "customTrack": "Diversos restaurantes pelo Recife Antigo",
+    "customTrack": "Pizza pra todo mundo!",
     "image": "/images/backgrounds/lunch.jpg"
   },
   "633": {

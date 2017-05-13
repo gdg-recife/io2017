@@ -4,7 +4,7 @@
     "tracks": [{
         "title": "Auditório Bolo de Rolo"
     }, {
-        "title": "Auditório Bolo Souza Leão"
+        "title": "Sala Bolo Souza Leão"
     }],
     "timeslots": [{
         "startTime": "09:00",
@@ -26,59 +26,45 @@
         ]
     }, {
         "startTime": "11:00",
-        "endTime": "11:50",
+        "endTime": "12:00",
         "sessions": [
-            [301]
-            
+            [301],
+            [601]
         ]
     }, {
-        "startTime": "11:50",
-        "endTime": "12:45",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "sessions": [
+            [1010],
+            [1111]
+        ]
+    }, {
+        "startTime": "13:00",
+        "endTime": "14:00",
         "sessions": [
             [133]
         ]
     }, {
-        "startTime": "13:00",
-        "endTime": "15:00",
+        "startTime": "14:00",
+        "endTime": "16:00",
         "sessions": [
             [139]
         ]
     }, {
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "sessions": [
-            [303],
-            [601]
-        ]
-    }, {
-        "startTime": "15:45",
-        "endTime": "16:30",
-        "sessions": [
-            [304],
-            [542]
-        ]
-    }, {
-        "startTime": "16:30",
-        "endTime": "16:45",
-        "sessions": [
-            [540],
-            [541]
-        ]
-    }, {
-        "startTime": "16:45",
+        "startTime": "16:00",
         "endTime": "17:00",
         "sessions": [
-            [134]
+            [304],
+            [641]
         ]
     }, {
         "startTime": "17:00",
-        "endTime": "17:50",
+        "endTime": "18:00",
         "sessions": [
-            [641],
-            [140]
+            [5539]
         ]
     }, {
-        "startTime": "17:45",
+        "startTime": "17:50",
         "endTime": "18:00",
         "sessions": [
             [138]

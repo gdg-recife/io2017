@@ -20,21 +20,10 @@
     "title": "patrocinadores",
     "logos": [
       {
-        "name": "Sua marca aqui",
-        "url": "https://goo.gl/forms/Gb6MLlk9txofvVxh2",
-        "logoUrl": "../images/logos/ad.png",
+        "name": "Cesar",
+        "url": "http://www.cesar.org.br/",
+        "logoUrl": "http://www.minhapos.com.br/data/artigos/images/LOGO_CESAR_300DPI.jpg",
         "width": 200
-      }
-    ]
-  },
-  {
-    "title": "midia",
-    "logos": [
-      {
-        "name": "iMasters",
-        "url": "https://imasters.com.br",
-        "logoUrl": "../images/logos/imasters.png",
-        "width": 150
       }
     ]
   },
