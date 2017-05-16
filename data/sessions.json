@@ -107,15 +107,12 @@
   },
   "304": {
     "id": 304,
-    "title": "Como descobrir e predizer padrões em hábitos musicais utilizando Machine Learning.",
-    "description": "",
+    "title": "Começando com Machine Learning usando Produtos Google",
+    "description": "Inteligência Artificial é tópico em alta desde a época que acreditava-se que teríamos carros voadores nos anos 2000, e enquanto isso ainda não é realidade, a IA está cada vez mais presente nos serviços que utilizamos. Nessa palestra, mostro como utilizar vários serviços da Google (Vision API, Tensorflow e etc) e como eles podem te ajudar a começar a se aventurar no mundo da aprendizagem de máquina.",
     "language": "Português",
     "tags": [
       "Machine Learning",
       "TensorFlow",
-      "Spotify", 
-      "Apple Music",
-      "Lastfm",
       "Python"
    ],
     "speakers": [
